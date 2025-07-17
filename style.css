@@ -1,0 +1,23 @@
+:root {
+    --primaryColor: #be9c79;
+    --secondaryColor: #212529;
+    --ffPrimary: "Merienda ", serif;
+    --ffSecondary: "Nunito Sans", serif
+}
+
+.mb-2 {
+    height: 60px;
+}
+
+.section-title {
+    font-family: "Merienda", serif;
+    font-size: 50px;
+}
+
+.text-muted {
+    font-family: var(--ffSecondary);
+}
+
+.fw-semibold {
+    font-family: var(--ffSecondary);
+}
