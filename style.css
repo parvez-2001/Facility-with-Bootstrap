@@ -10,8 +10,8 @@
 }
 
 .section-title {
-    font-family: "Merienda", serif;
-    font-size: 50px;
+    font-family: var(--ffPrimary);
+    font-size: 40px;
 }
 
 .text-muted {
