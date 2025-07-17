@@ -1,12 +1,13 @@
+
 :root {
     --primaryColor: #be9c79;
     --secondaryColor: #212529;
-    --ffPrimary: "Merienda ", serif;
-    --ffSecondary: "Nunito Sans", serif
+    --ffPrimary: "Merienda", serif;
+    --ffSecondary: "Nunito Sans", serif;
 }
 
 .mb-2 {
-    height: 60px;
+    height: 40px;
 }
 
 h2 {
@@ -14,10 +15,10 @@ h2 {
     font-size: 40px;
 }
 
-.text-muted {
+p {
     font-family: var(--ffSecondary);
 }
 
-.fw-semibold {
+h5 {
     font-family: var(--ffSecondary);
 }
