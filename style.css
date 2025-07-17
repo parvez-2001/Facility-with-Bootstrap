@@ -9,7 +9,7 @@
     height: 60px;
 }
 
-.section-title {
+h2 {
     font-family: var(--ffPrimary);
     font-size: 40px;
 }
